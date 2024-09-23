@@ -10,8 +10,7 @@ import time
 def fetch_and_parse(url):
     # 设置代理
     proxies = {
-        'http': 'http://brd-customer-hl_230da8b9-zone-zone1:ev9vt8xccsgg@brd.superproxy.io:22225',
-        'https': 'http://brd-customer-hl_230da8b9-zone-zone1:ev9vt8xccsgg@brd.superproxy.io:22225'
+       
     }
     
     use_proxy = False
